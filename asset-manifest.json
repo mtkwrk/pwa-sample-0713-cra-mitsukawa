@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pwa-sample-0713-cra-mitsukawa/static/css/main.00d47b7e.css",
+    "main.js": "/pwa-sample-0713-cra-mitsukawa/static/js/main.5762812e.js",
+    "static/js/453.f8b5b3fc.chunk.js": "/pwa-sample-0713-cra-mitsukawa/static/js/453.f8b5b3fc.chunk.js",
+    "service-worker.js": "/pwa-sample-0713-cra-mitsukawa/service-worker.js",
+    "index.html": "/pwa-sample-0713-cra-mitsukawa/index.html",
+    "main.00d47b7e.css.map": "/pwa-sample-0713-cra-mitsukawa/static/css/main.00d47b7e.css.map",
+    "main.5762812e.js.map": "/pwa-sample-0713-cra-mitsukawa/static/js/main.5762812e.js.map",
+    "453.f8b5b3fc.chunk.js.map": "/pwa-sample-0713-cra-mitsukawa/static/js/453.f8b5b3fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00d47b7e.css",
+    "static/js/main.5762812e.js"
+  ]
+}
